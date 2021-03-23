@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Evergreen UI example
 
-![CI/CD](https://github.com/:user/:repository/workflows/CI/badge.svg)
-[![codecov](https://codecov.io/gh/:user/:repository/branch/master/graph/badge.svg?token=:TOKEN)](https://codecov.io/gh/:user/:repository)
-![License](https://img.shields.io/github/license/:user/:repository)
+![CI/CD](https://github.com/phatnguyenuit/evergreen-ui-example/workflows/CI/badge.svg)
+[![codecov](https://codecov.io/gh/phatnguyenuit/evergreen-ui-example/branch/master/graph/badge.svg?token=:TOKEN)](https://codecov.io/gh/phatnguyenuit/evergreen-ui-example)
+![License](https://img.shields.io/github/license/phatnguyenuit/evergreen-ui-example)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -22,7 +22,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Configure
 
 - Update [`README`](./README.md)
-  - Replace `:user` and `:repository` by your own.
+  - Replace `phatnguyenuit` and `evergreen-ui-example` by your own.
   - Navigate to [Codecov](https://codecov.io) login and get `Repository Upload Token` for your repository.
   - Replace `:TOKEN` with your markdown Codecov badge.
 - Add repository secrets `DEPLOY_ACCESS_TOKEN` generated from `https://github.com/settings/tokens/new` with the first four checked options of `repo`.
