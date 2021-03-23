@@ -1,7 +1,7 @@
 # Evergreen UI example
 
 ![CI/CD](https://github.com/phatnguyenuit/evergreen-ui-example/workflows/CI/badge.svg)
-[![codecov](https://codecov.io/gh/phatnguyenuit/evergreen-ui-example/branch/master/graph/badge.svg?token=:TOKEN)](https://codecov.io/gh/phatnguyenuit/evergreen-ui-example)
+[![codecov](https://codecov.io/gh/phatnguyenuit/evergreen-ui-example/branch/master/graph/badge.svg?token=9VY7kAoogu)](https://codecov.io/gh/phatnguyenuit/evergreen-ui-example)
 ![License](https://img.shields.io/github/license/phatnguyenuit/evergreen-ui-example)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
